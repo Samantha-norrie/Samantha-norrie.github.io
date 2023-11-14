@@ -37,3 +37,5 @@ May 2023 - September 2023
 - JW McConnell Scholarship (McGill entrance scholarship), awarded September 2018
 - BC Excellence Scholarship, awarded June 2018
 - Canadian Parents for French Grade 12 Excellence Award, awarded June 2018
+
+### Non-Academic Work Experience

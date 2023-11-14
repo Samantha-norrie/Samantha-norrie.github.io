@@ -10,9 +10,9 @@ This page contains my academic CV. Please check out my GitHub for more informati
 September 2022 - Present
 
 ##### Courses
-- CSC 116: Fundamentals of Programming with Engineering Applications II
-- CSC 115: Fundamentals of Programming: II
-- CSC 130: World Wide Web and Mobile Applications
+- [CSC 116: Fundamentals of Programming with Engineering Applications II](https://heat.csc.uvic.ca/coview/course/2023091/CSC116)
+- [CSC 115: Fundamentals of Programming: II](https://heat.csc.uvic.ca/coview/course/2022091/CSC115)
+- [CSC 130: World Wide Web and Mobile Applications](https://heat.csc.uvic.ca/coview/course/2022091/CSC130)
 
 
 - Teaches foundational programming concepts
@@ -33,10 +33,10 @@ May 2023 - September 2023
 - Samantha Norrie, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)
 
 ### Awards and Scholarships
-- NSERC CREATE in QC, awarded August 2023 for January 2024 - January 2026
+- [NSERC CREATE in QC](https://quantum-bc.ca/quantum-computing-program/), awarded August 2023 for January 2024 - January 2026
 - NSERC CREATE in QC Undergraduate Summer Research Top Up Award, awarded June 2023 for Summer 2023 Semester
-- NSERC USRA, Aaarded March 2023 for Summer 2023 Semester
-- Jamie Cassels Undergraduate Research Award, awarded August 2022 for Fall 2022 Semester
+- [NSERC USRA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp), Awarded March 2023 for Summer 2023 Semester
+- [Jamie Cassels Undergraduate Research Award](https://onlineacademiccommunity.uvic.ca/LearnAnywhere/2023/02/14/jcura-projects-2023/), awarded August 2022 for Fall 2022 Semester
 - JW McConnell Scholarship (McGill entrance scholarship), awarded September 2018
 - BC Excellence Scholarship, awarded June 2018
 - Canadian Parents for French Grade 12 Excellence Award, awarded June 2018

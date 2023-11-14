@@ -14,6 +14,7 @@ September 2022 - Present
 - [CSC 115: Fundamentals of Programming: II](https://heat.csc.uvic.ca/coview/course/2022091/CSC115)
 - [CSC 130: World Wide Web and Mobile Applications](https://heat.csc.uvic.ca/coview/course/2022091/CSC130)
 
+------------
 
 - Teaches foundational programming concepts
 - Marks projects, midterms, and finals in a timely manner
@@ -45,11 +46,14 @@ May 2023 - September 2023
 
 #### Computer Science, MSc
 January 2024 - January 2026
+
 UVic, RIGI Lab
 
 #### Computer Science with Co-op Designation, BSc
 May 2019 - December 2023
-UVic 
+
+UVic
+ 
 7.8/9.0 GPA
 
 ### Non-Academic Work Experience
@@ -64,5 +68,7 @@ September 2020 - May 2021
 - Wrote automated tests in C, C++, C#, and Python for Teledyne FLIR's Spinnaker SDK
 - Wrote Shell scripts to help maintain Jenkins CI/CD pipelines
 - Worked in a *nix environment
+
+### References can be provided upon request.
 
 

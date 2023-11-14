@@ -1,16 +1,19 @@
-# Hello! Welcome to my GitHub!
+# Hello, my name is Samantha Norrie!
 
-My name is Samantha Norrie. I'm currently studying and researching Quantum Computing at the University of Victoria. I enjoy mixing Quantum Computing with Visualisation and Computer Science Education!
+I'm currently studying and researching Quantum Computing at the University of Victoria. I enjoy mixing Quantum Computing with Visualisation and Computer Science Education!
+
+This page contains my academic CV. Please check out my GitHub for more information on the projects that I have worked on!
 
 ### Academic Experience
 
 #### Teaching Assistant, UVic, Department of Computer Science
 September 2022 - Present
 
-Courses
+##### Courses
 - CSC 116: Fundamentals of Programming with Engineering Applications II
 - CSC 115: Fundamentals of Programming: II
 - CSC 130: World Wide Web and Mobile Applications
+
 
 - Teaches foundational programming concepts
 - Marks projects, midterms, and finals in a timely manner
@@ -38,4 +41,28 @@ May 2023 - September 2023
 - BC Excellence Scholarship, awarded June 2018
 - Canadian Parents for French Grade 12 Excellence Award, awarded June 2018
 
+### Education
+
+#### Computer Science, MSc
+January 2024 - January 2026
+UVic, RIGI Lab
+
+#### Computer Science with Co-op Designation, BSc
+May 2019 - December 2023
+UVic 
+7.8/9.0 GPA
+
 ### Non-Academic Work Experience
+
+#### Full-Stack Developer Co-op, Giftbit
+May 2021 - December 2021
+- Developed application features for the Giftbit web application using Java/Groovy and React
+- Audited automated test suites
+
+#### Software Test Developer Co-op, Teledyne FLIR
+September 2020 - May 2021
+- Wrote automated tests in C, C++, C#, and Python for Teledyne FLIR's Spinnaker SDK
+- Wrote Shell scripts to help maintain Jenkins CI/CD pipelines
+- Worked in a *nix environment
+
+

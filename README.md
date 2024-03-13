@@ -6,6 +6,10 @@ This page contains my academic CV. Please check out my GitHub for more informati
 
 ### Academic Experience
 
+#### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
+- Creates and marks assignments and quizzes on foundational Quantum Computing concepts
+- Answers student questions
+  
 #### Teaching Assistant, UVic, Department of Computer Science
 September 2022 - Present
 

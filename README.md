@@ -5,19 +5,19 @@ I'm currently studying and researching Quantum Computing at the University of Vi
 This page contains my academic CV. Please check out my GitHub for more information on the projects that I have worked on!
 
 ### Academic Experience
-
-#### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
-December 2023 - Present
-- Creates and marks assignments and quizzes on foundational Quantum Computing concepts
-- Answers student questions
-  
 #### Teaching Assistant, UVic, Department of Computer Science
 September 2022 - Present
 
 ##### Courses
+- [SENG 457: Quantum Algorithms and Software Engineering](https://heat.csc.uvic.ca/coview/course/2024051/SENG457)
 - [CSC 116: Fundamentals of Programming with Engineering Applications II](https://heat.csc.uvic.ca/coview/course/2023091/CSC116)
 - [CSC 115: Fundamentals of Programming: II](https://heat.csc.uvic.ca/coview/course/2022091/CSC115)
 - [CSC 130: World Wide Web and Mobile Applications](https://heat.csc.uvic.ca/coview/course/2022091/CSC130)
+  
+#### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
+December 2023 - May 2024
+- Creates and marks assignments and quizzes on foundational Quantum Computing concepts
+- Answers student questions
 
 ------------
 
@@ -39,6 +39,7 @@ May 2023 - September 2023
 - Samantha Norrie, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)
 
 ### Awards and Scholarships
+- [Open Education Resource Grant](https://teachanywhere.uvic.ca/grants/open-educational-resource/), awarded May 2024
 - [NSERC CREATE in QC](https://quantum-bc.ca/quantum-computing-program/), awarded August 2023 for January 2024 - January 2026
 - NSERC CREATE in QC Undergraduate Summer Research Top Up Award, awarded June 2023 for Summer 2023 Semester
 - [NSERC USRA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp), Awarded March 2023 for Summer 2023 Semester
@@ -54,7 +55,8 @@ January 2024 - January 2026
 
 UVic, RIGI Lab
 
-#### Computer Science with Co-op Designation, BSc
+#### Computer Science with distinction, BSc
+
 May 2019 - December 2023
 
 UVic

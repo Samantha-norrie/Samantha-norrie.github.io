@@ -26,8 +26,8 @@ September 2022 - Present
   
 #### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
 December 2023 - May 2024
-- Creates and marks assignments and quizzes on foundational Quantum Computing concepts
-- Answers student questions
+- Created and marks assignments and quizzes on foundational Quantum Computing concepts
+- Answered student questions
 
 #### NSERC USRA Research Intern UVic, RIGI Lab
 May 2023 - September 2023

@@ -5,8 +5,8 @@ I'm currently a Master's student and a Research Assistant in the RIGI-PITA Lab a
 This page contains my academic CV. Please check out my GitHub for more information on the projects that I have worked on!
 
 ### Publications
-- Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing, technical paper to be published in the proceedings of QSEEC 2024
-- Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, QGrover: Teaching Grover's Algorithm Through Visual Exploration, technical paper to be published in the proceedings of QSEEC 2024
+- Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing, technical paper to be published in the proceedings of QSEEC 2024 (QCE 2024)
+- Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, QGrover: Teaching Grover's Algorithm Through Visual Exploration, technical paper to published in the proceedings of QSEEC 2024 (QCE 2024)
 - Samantha Norrie, Anthony Estey, QNotation: An Interactive Visual Tool to Lower Learning Barriers in Quantum Computing, extended abstract and poster published in QCE 2023
 - Addie Jordon, Austin Hawkins-Seagram, Samantha Norrie, José Ossorio, Ulrike Stege, QWalkVis: Quantum Walks Visualization Application, paper published in QCE 2023
 - Samantha Norrie, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)

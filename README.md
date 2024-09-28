@@ -17,7 +17,7 @@ September 2022 - Present
 - Teaches foundational programming concepts
 - Marks projects, midterms, and finals in a timely manner
 - Creates educational material for students
-##### Courses
+##### TA'd Courses
 - [SENG 457: Quantum Algorithms and Software Engineering](https://heat.csc.uvic.ca/coview/course/2024051/SENG457)
 - [CSC 225: Algorithms and Data Structures I](https://heat.csc.uvic.ca/coview/course/2024091/CSC225)
 - [CSC 130: World Wide Web and Mobile Applications](https://heat.csc.uvic.ca/coview/course/2022091/CSC130)

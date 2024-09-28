@@ -14,17 +14,15 @@ This page contains my academic CV. Please check out my GitHub for more informati
 ### Academic Experience
 #### Teaching Assistant, UVic, Department of Computer Science
 September 2022 - Present
-
+- Teaches foundational programming concepts
+- Marks projects, midterms, and finals in a timely manner
+- Creates educational material for students
 ##### Courses
 - [SENG 457: Quantum Algorithms and Software Engineering](https://heat.csc.uvic.ca/coview/course/2024051/SENG457)
 - [CSC 225: Algorithms and Data Structures I](https://heat.csc.uvic.ca/coview/course/2024091/CSC225)
 - [CSC 130: World Wide Web and Mobile Applications](https://heat.csc.uvic.ca/coview/course/2022091/CSC130)
 - [CSC 116: Fundamentals of Programming with Engineering Applications II](https://heat.csc.uvic.ca/coview/course/2023091/CSC116)
 - [CSC 115: Fundamentals of Programming: II](https://heat.csc.uvic.ca/coview/course/2022091/CSC115)
-
-- Teaches foundational programming concepts
-- Marks projects, midterms, and finals in a timely manner
-- Creates educational material for students
   
 #### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
 December 2023 - May 2024

@@ -21,17 +21,15 @@ September 2022 - Present
 - [CSC 130: World Wide Web and Mobile Applications](https://heat.csc.uvic.ca/coview/course/2022091/CSC130)
 - [CSC 116: Fundamentals of Programming with Engineering Applications II](https://heat.csc.uvic.ca/coview/course/2023091/CSC116)
 - [CSC 115: Fundamentals of Programming: II](https://heat.csc.uvic.ca/coview/course/2022091/CSC115)
+
+- Teaches foundational programming concepts
+- Marks projects, midterms, and finals in a timely manner
+- Creates educational material for students
   
 #### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
 December 2023 - May 2024
 - Creates and marks assignments and quizzes on foundational Quantum Computing concepts
 - Answers student questions
-
-------------
-
-- Teaches foundational programming concepts
-- Marks projects, midterms, and finals in a timely manner
-- Creates educational material for students
 
 #### NSERC USRA Research Intern UVic, RIGI Lab
 May 2023 - September 2023
@@ -55,7 +53,7 @@ May 2023 - September 2023
 #### Computer Science, MSc
 January 2024 - January 2026
 
-UVic, RIGI Lab
+UVic, RIGI-PITA Lab
 
 #### Computer Science with distinction, BSc
 

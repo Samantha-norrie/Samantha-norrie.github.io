@@ -36,7 +36,8 @@ May 2023 - September 2023
 - Published an extended abstract and poster on QNotation in IEEE Quantum Week 2023 (QCE 2023)
 - Presented QNotation at QCE 2023
 
-### Awards and Scholarships
+### Awards, Grants, and Scholarships
+- IEEE Computer Society Student Travel Grant for IEEE Quantum Week 2024, awarded August 2024
 - [Open Education Resource Grant](https://teachanywhere.uvic.ca/grants/open-educational-resource/), awarded May 2024
 - [NSERC CREATE in QC](https://quantum-bc.ca/quantum-computing-program/), awarded August 2023 for January 2024 - January 2026
 - NSERC CREATE in QC Undergraduate Summer Research Top Up Award, awarded June 2023 for Summer 2023 Semester
@@ -48,10 +49,13 @@ May 2023 - September 2023
 
 ### Education
 
-#### Computer Science, MSc
-January 2024 - January 2026
+#### Computer Science, MSc, Quantum Computing Education research focus
+January 2024 - December 2025
 
-UVic, RIGI-PITA Lab
+RIGI-PITA Lab, UVic
+
+8.0/9.0 GPA
+
 
 #### Computer Science with distinction, BSc
 

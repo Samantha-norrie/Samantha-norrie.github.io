@@ -49,7 +49,7 @@ May 2023 - September 2023
 
 ### Education
 
-#### Computer Science, MSc, Quantum Computing Education research focus
+#### Computer Science, MSc (Quantum Computing Education research focus)
 January 2024 - December 2025
 
 RIGI-PITA Lab, UVic

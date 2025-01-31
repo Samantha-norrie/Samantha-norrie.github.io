@@ -1,6 +1,6 @@
 # Hello, my name is Samantha Norrie!
 
-I'm currently a Master's student and a Research Assistant in the RIGI-PITA Lab at the University of Victoria. I enjoy mixing Quantum Computing with Visualisation and Computer Science Education!
+I'm currently a Master's student and a Research Assistant in the RIGI-PITA Lab at the University of Victoria. I enjoy mixing quantum computing with software engineering and computer science education!
 
 ### Publications
 - Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, [QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing](https://ieeexplore.ieee.org/document/10821137), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)

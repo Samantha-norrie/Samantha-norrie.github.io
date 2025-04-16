@@ -13,6 +13,7 @@ I'm currently a Master's student and a Research Assistant in the RIGI-PITA Lab a
 
 #### Quantum Training Intern, QAI
 January 2025 - Present
+
 Remote, British Columbia, Canada
 
 - Creates industry-relevant programming exercises in Python and quantum libraries such as Qiskit and Pennylane
@@ -22,6 +23,7 @@ Remote, British Columbia, Canada
 
 #### Research Assistant, UVic, RIGI Lab
 January 2024 - present
+
 Victoria, British Columbia, Canada
 
 - Develops full-stack applications that demonstrate quantum computing concepts using Python, Qiskit, Next.js, and Axios
@@ -30,6 +32,7 @@ Victoria, British Columbia, Canada
 
 #### Teaching Assistant, UVic, Department of Computer Science
 September 2022 - December 2024
+
 Victoria, British Columbia, Canada
 
 - Taught foundational programming concepts
@@ -44,6 +47,7 @@ Victoria, British Columbia, Canada
   
 #### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
 December 2023 - May 2024
+
 Remote, British Columbia, Canada
 
 - Created and marked assignments and quizzes on foundational quantum computing concepts
@@ -51,6 +55,7 @@ Remote, British Columbia, Canada
 
 #### NSERC USRA Research Intern, UVic, RIGI Lab
 May 2023 - September 2023
+
 Victoria (hybrid), British Columbia, Canada
 
 - Conducted a literature review on educational QC tools
@@ -60,6 +65,7 @@ Victoria (hybrid), British Columbia, Canada
 
 #### Full-Stack Developer Co-op, Giftbit
 May 2021 - December 2021
+
 Victoria (hybrid), British Columbia, Canada
 
 - Developed application features for the Giftbit web application using Java/Groovy and React
@@ -67,6 +73,7 @@ Victoria (hybrid), British Columbia, Canada
 
 #### Software Test Developer Co-op, Teledyne FLIR
 September 2020 - May 2021
+
 Remote, British Columbia, Canada
 
 - Wrote automated tests in C, C++, C#, and Python for Teledyne FLIR's Spinnaker SDK

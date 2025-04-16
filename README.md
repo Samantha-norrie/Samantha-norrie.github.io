@@ -13,10 +13,25 @@ I'm currently a Master's student and a Research Assistant in the RIGI-PITA Lab a
 
 #### Quantum Training Intern, QAI
 January 2025 - Present
-- Designs educational content related to quantum computing and software engineering
+Remote, British Columbia, Canada
+
+- Creates industry-relevant programming exercises in Python and quantum libraries such as Qiskit and Pennylane
+- Writes technical documents on content related to software engineering and quantum computing
+- Works in an Agile lifecycle
+- Documents work using Git and GitHub
+
+#### Research Assistant, UVic, RIGI Lab
+January 2024 - present
+Victoria, British Columbia, Canada
+
+- Develops full-stack applications that demonstrate quantum computing concepts using Python, Qiskit, Next.js, and Axios
+- Ensures CI/CD best practices are followed by using Pytest for automated testing and Git fr version control
+- Publishes and presents technical papers on work
 
 #### Teaching Assistant, UVic, Department of Computer Science
 September 2022 - December 2024
+Victoria, British Columbia, Canada
+
 - Taught foundational programming concepts
 - Marked projects, midterms, and finals in a timely manner
 - Created educational material for students
@@ -29,11 +44,15 @@ September 2022 - December 2024
   
 #### Quantum Software Engineering Bootcamp Teaching Assistant, QAI & UVic
 December 2023 - May 2024
-- Created and marked assignments and quizzes on foundational quantum computing concepts
-- Answered student questions
+Remote, British Columbia, Canada
 
-#### NSERC USRA Research Intern UVic, RIGI Lab
+- Created and marked assignments and quizzes on foundational quantum computing concepts
+- Answered student questions related to quantum computing and software engineering
+
+#### NSERC USRA Research Intern, UVic, RIGI Lab
 May 2023 - September 2023
+Victoria (hybrid), British Columbia, Canada
+
 - Conducted a literature review on educational QC tools
 - Created QNotation, a Python widget for Qiskit quantum circuits which allows users to see their circuits in circuit, Dirac, and matrix notation
 - Published an extended abstract and poster on QNotation in IEEE Quantum Week 2023 (QCE 2023)
@@ -41,11 +60,15 @@ May 2023 - September 2023
 
 #### Full-Stack Developer Co-op, Giftbit
 May 2021 - December 2021
+Victoria (hybrid), British Columbia, Canada
+
 - Developed application features for the Giftbit web application using Java/Groovy and React
 - Audited automated test suites
 
 #### Software Test Developer Co-op, Teledyne FLIR
 September 2020 - May 2021
+Remote, British Columbia, Canada
+
 - Wrote automated tests in C, C++, C#, and Python for Teledyne FLIR's Spinnaker SDK
 - Wrote Shell scripts to help maintain Jenkins CI/CD pipelines
 - Worked in a *nix environment
@@ -63,7 +86,7 @@ September 2020 - May 2021
 
 ### Education
 
-#### Computer Science, MSc (Quantum Computing Education research focus)
+#### Computer Science, MSc (quantum computing + education research focus)
 January 2024 - December 2025
 
 RIGI-PITA Lab, UVic

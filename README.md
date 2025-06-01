@@ -2,6 +2,14 @@
 
 I'm a software developer and research assistant currently completing my Master’s in Computer Science at the University of Victoria.
 
+## Table of Contents
+- [Publications](#publications)
+- [Industry Experience](#industry-experience)
+- [Professional Academic Experience](#professional-academic-experience)
+- [Awards, Grants, and Scholarships](#awards-grants-and-scholarships)
+- [Education](#education)
+- [Human Languages](#human-languages)
+
 ### Publications
 - Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, [QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing](https://ieeexplore.ieee.org/document/10821137), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
 - Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, [QGrover: Teaching Grover's Algorithm Through Visual Exploration](https://ieeexplore.ieee.org/document/10821077), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
@@ -109,6 +117,11 @@ May 2019 - December 2023
 UVic
  
 7.8/9.0 GPA
+
+### (Human) Languages
+- English (Native)
+- French (CEFR B2)
+- Spanish (CEFR B1/Duolingo 86)
 
 ### References can be provided upon request.
 

@@ -120,8 +120,8 @@ UVic
 
 ### (Human) Languages
 - English (Native)
-- French (CEFR B2)
-- Spanish (CEFR B1/Duolingo 86)
+- French (CEFR B2 through BC Double Dogwood program)
+- Spanish (Duolingo 86/ ~CEFR B1)
 
 ### References can be provided upon request.
 

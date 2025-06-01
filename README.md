@@ -11,11 +11,11 @@ I'm a software developer and research assistant currently completing my Master�
 - [(Human) Languages](#human-languages)
 
 ### Publications
-- Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, [QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing](https://ieeexplore.ieee.org/document/10821137), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
-- Samantha Norrie, Anthony Estey, Hausi Müller, Ulrike Stege, [QGrover: Teaching Grover's Algorithm Through Visual Exploration](https://ieeexplore.ieee.org/document/10821077), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
-- Samantha Norrie, Anthony Estey, [QNotation: An Interactive Visual Tool to Lower Learning Barriers in Quantum Computing](https://ieeexplore.ieee.org/document/10313602), extended abstract and poster published in QCE 2023
-- Addie Jordon, Austin Hawkins-Seagram, Samantha Norrie, José Ossorio, Ulrike Stege, [QWalkVis: Quantum Walks Visualization Application](https://ieeexplore.ieee.org/document/10313735), paper published in QCE 2023
-- Samantha Norrie, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)
+- **Samantha Norrie**, Anthony Estey, Hausi Müller, Ulrike Stege, [QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing](https://ieeexplore.ieee.org/document/10821137), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
+- **Samantha Norrie**, Anthony Estey, Hausi Müller, Ulrike Stege, [QGrover: Teaching Grover's Algorithm Through Visual Exploration](https://ieeexplore.ieee.org/document/10821077), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
+- **Samantha Norrie**, Anthony Estey, [QNotation: An Interactive Visual Tool to Lower Learning Barriers in Quantum Computing](https://ieeexplore.ieee.org/document/10313602), extended abstract and poster published in QCE 2023
+- Addie Jordon, Austin Hawkins-Seagram, **Samantha Norrie**, José Ossorio, Ulrike Stege, [QWalkVis: Quantum Walks Visualization Application](https://ieeexplore.ieee.org/document/10313735), paper published in QCE 2023
+- **Samantha Norrie**, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)
 
 ### Industry Experience
 

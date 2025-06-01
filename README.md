@@ -1,6 +1,6 @@
 # Hello, my name is Samantha Norrie!
 
-I'm a software developer and research assistant currently completing my Master’s in Computer Science at the University of Victoria. My main areas of work so far have been a mix of testing automation, full-stack development, applied research, tehcnical writign, and computer science education. Outside of writing code on the daily, I enjoy weightlifting, journaling, language learning, and playing video games :) 
+I'm a software developer and research assistant currently completing my Master’s in Computer Science at the University of Victoria. My main areas of work so far have been a mix of testing automation, full-stack development, applied research, tehcnical writing, and computer science education. Outside of writing code on the daily, I enjoy weightlifting, journaling, language learning, and playing video games :) 
 
 ## Table of Contents
 - [Publications](#publications)

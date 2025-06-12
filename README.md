@@ -20,7 +20,7 @@ I'm a software developer and research assistant currently completing my Masterâ€
 ### Industry Experience
 
 #### Quantum Training Specialist, QAI
-January 2025 - August 2025
+January 2025 - Present
 
 Remote, British Columbia, Canada
 

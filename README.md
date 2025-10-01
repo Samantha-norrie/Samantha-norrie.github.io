@@ -19,21 +19,23 @@ I'm a software developer and research assistant currently completing my Masterâ€
 
 ### Industry Experience
 
-#### Quantum Training Specialist, QAI
+#### Software Development Specialist, Quantum Algorithms Institute
 January 2025 - Present
 
 Remote, British Columbia, Canada
 
-- Created technical content and programming exercises using Python, Qiskit, Pennylane, and Pytest
+- Created technical content and programming exercises using **Python**, **Qiskit**, **Pennylane**, and **Pytest**
 - Co-led development of quantum computing curricula
-- Worked in an Agile environment using Jira, Git, and GitHub
+- Worked in an Agile environment using **Jira**, **Git**, and **GitHub**
 
 #### Full-Stack Developer Co-op, Giftbit
 May 2021 - December 2021
 
 Victoria (hybrid), British Columbia, Canada
 
-- Developed application features for the Giftbit web application using Java/Groovy and React
+- Developed application features for the Giftbit web application using **Java/Groovy** and **React**
+- Designed frontend components using **Figma**
+- Deployed **AWS EC2** instances
 - Audited automated test suites
 
 #### Software Test Developer Co-op, Teledyne FLIR
@@ -41,9 +43,9 @@ September 2020 - May 2021
 
 Remote, British Columbia, Canada
 
-- Wrote automated tests in C, C++, C#, and Python for Teledyne FLIR's Spinnaker SDK
-- Wrote Shell scripts to help maintain Jenkins CI/CD pipelines
-- Worked in a *nix environment
+- Wrote automated tests in **C**, **C++**, **C#**, and **Python** for Teledyne FLIR's Spinnaker SDK
+- Wrote **Shell** scripts to help maintain **Jenkins** CI/CD pipelines
+- Worked in a ***nix** environment
 
 ### Professional Academic Experience
 
@@ -52,8 +54,8 @@ January 2024 - present
 
 Victoria, British Columbia, Canada
 
-- Develops full-stack applications that demonstrate quantum computing concepts using Python, Qiskit, Next.js, and Axios
-- Ensures CI/CD best practices are followed by using Pytest for automated testing and Git fr version control
+- Develops full-stack applications that demonstrate quantum computing concepts using **Python**, **Qiskit**, **Next.js**, and **Axios**
+- Ensures CI/CD best practices are followed by using **Pytest** for automated testing and **Git** for version control
 - Publishes and presents technical papers on work
 
 #### Teaching Assistant, UVic, Department of Computer Science
@@ -109,7 +111,6 @@ RIGI-PITA Lab, UVic
 
 8.0/9.0 GPA
 
-
 #### Computer Science with distinction, BSc
 
 May 2019 - December 2023
@@ -121,7 +122,7 @@ UVic
 ### (Human) Languages
 - English (Native)
 - French (CEFR B2 through BC Double Dogwood program)
-- Spanish (Duolingo 86/ ~CEFR B1)
+- Spanish (Duolingo 88/ ~CEFR B1)
 
 ### References can be provided upon request.
 

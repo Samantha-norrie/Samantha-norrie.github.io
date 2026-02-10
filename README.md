@@ -1,26 +1,26 @@
 # Hello, my name is Samantha Norrie!
 
-I'm a software developer and research assistant currently completing my Master’s in Computer Science at the University of Victoria. My main areas of work so far have been a mix of test automation, full-stack development, applied research, technical writing, and computer science education. Outside of writing code on the daily, I enjoy weightlifting, journaling, language learning, and playing video games :) 
+I'm a software developer and research assistant currently completing my Master’s in Computer Science at the University of Victoria. My main areas of work so far have been a mix of test automation, full-stack development, applied research, technical writing, and computer science education. Outside of writing code, I enjoy weightlifting, reading, language learning, journaling, and playing video games :) 
 
 ## Table of Contents
+- [Professional Experience](#industry-experience)
 - [Publications](#publications)
-- [Industry Experience](#industry-experience)
 - [Professional Academic Experience](#professional-academic-experience)
 - [Awards, Grants, and Scholarships](#awards-grants-and-scholarships)
 - [Education](#education)
 - [(Human) Languages](#human-languages)
 
-### Publications
-- **Samantha Norrie**, Anthony Estey, Hausi Müller, Ulrike Stege, [QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing](https://ieeexplore.ieee.org/document/10821137), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
-- **Samantha Norrie**, Anthony Estey, Hausi Müller, Ulrike Stege, [QGrover: Teaching Grover's Algorithm Through Visual Exploration](https://ieeexplore.ieee.org/document/10821077), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
-- **Samantha Norrie**, Anthony Estey, [QNotation: An Interactive Visual Tool to Lower Learning Barriers in Quantum Computing](https://ieeexplore.ieee.org/document/10313602), extended abstract and poster published in QCE 2023
-- Addie Jordon, Austin Hawkins-Seagram, **Samantha Norrie**, José Ossorio, Ulrike Stege, [QWalkVis: Quantum Walks Visualization Application](https://ieeexplore.ieee.org/document/10313735), paper published in QCE 2023
-- **Samantha Norrie**, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)
+### Professional Experience
 
-### Industry Experience
+#### Senior Software Developer, University Systems, University of Victoria
+January 2026 - Present
 
+Remote, British Columbia, Canada
+
+- Creates and maintains components of UVic's RAIS software
+  
 #### Software Development Specialist, Quantum Algorithms Institute
-January 2025 - Present
+January 2025 - October 2025
 
 Remote, British Columbia, Canada
 
@@ -28,29 +28,8 @@ Remote, British Columbia, Canada
 - Co-led development of quantum computing curricula
 - Worked in an Agile environment using **Jira**, **Git**, and **GitHub**
 
-#### Full-Stack Developer Co-op, Giftbit
-May 2021 - December 2021
-
-Victoria (hybrid), British Columbia, Canada
-
-- Developed application features for the Giftbit web application using **Java/Groovy** and **React**
-- Designed frontend components using **Figma**
-- Deployed **AWS EC2** instances
-- Audited automated test suites
-
-#### Software Test Developer Co-op, Teledyne FLIR
-September 2020 - May 2021
-
-Remote, British Columbia, Canada
-
-- Wrote automated tests in **C**, **C++**, **C#**, and **Python** for Teledyne FLIR's Spinnaker SDK
-- Wrote **Shell** scripts to help maintain **Jenkins** CI/CD pipelines
-- Worked in a ***nix** environment
-
-### Professional Academic Experience
-
 #### Research Assistant, UVic, RIGI Lab
-January 2024 - Present
+January 2024 - December 2025
 
 Victoria, British Columbia, Canada
 
@@ -80,7 +59,7 @@ Remote, British Columbia, Canada
 
 - Created and marked assignments and quizzes on foundational quantum computing concepts
 - Answered student questions related to quantum computing and software engineering
-
+  
 #### NSERC USRA Research Intern, UVic, RIGI Lab
 May 2023 - September 2023
 
@@ -91,6 +70,32 @@ Victoria (hybrid), British Columbia, Canada
 - Published an extended abstract and poster on QNotation in IEEE Quantum Week 2023 (QCE 2023)
 - Presented QNotation at QCE 2023
 
+#### Full-Stack Developer Co-op, Giftbit
+May 2021 - December 2021
+
+Victoria (hybrid), British Columbia, Canada
+
+- Developed application features for the Giftbit web application using **Java/Groovy** and **React**
+- Designed frontend components using **Figma**
+- Deployed **AWS EC2** instances
+- Audited automated test suites
+
+#### Software Test Developer Co-op, Teledyne FLIR
+September 2020 - May 2021
+
+Remote, British Columbia, Canada
+
+- Wrote automated tests in **C**, **C++**, **C#**, and **Python** for Teledyne FLIR's Spinnaker SDK
+- Wrote **Shell** scripts to help maintain **Jenkins** CI/CD pipelines
+- Worked in a ***nix** environment
+
+### Publications
+- **Samantha Norrie**, Anthony Estey, Hausi Müller, Ulrike Stege, [QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing](https://ieeexplore.ieee.org/document/10821137), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
+- **Samantha Norrie**, Anthony Estey, Hausi Müller, Ulrike Stege, [QGrover: Teaching Grover's Algorithm Through Visual Exploration](https://ieeexplore.ieee.org/document/10821077), technical paper published in the proceedings of QSEEC 2024 (QCE 2024)
+- **Samantha Norrie**, Anthony Estey, [QNotation: An Interactive Visual Tool to Lower Learning Barriers in Quantum Computing](https://ieeexplore.ieee.org/document/10313602), extended abstract and poster published in QCE 2023
+- Addie Jordon, Austin Hawkins-Seagram, **Samantha Norrie**, José Ossorio, Ulrike Stege, [QWalkVis: Quantum Walks Visualization Application](https://ieeexplore.ieee.org/document/10313735), paper published in QCE 2023
+- **Samantha Norrie**, Miguel Nacenta, Improving Typing Experiences Through the Use of a Keyboard Interface With Integrated Gesture Recognition, poster published in Graphics Interface 2023 (GI23)
+- 
 ### Awards, Grants, and Scholarships
 - [IEEE Computer Society Student Travel Grant](https://qce.quantum.ieee.org/2024/student-travel-grants/) for IEEE Quantum Week 2024, awarded August 2024
 - [Open Education Resource Grant](https://teachanywhere.uvic.ca/grants/open-educational-resource/), awarded May 2024
@@ -111,7 +116,7 @@ RIGI-PITA Lab, UVic
 
 8.0/9.0 GPA
 
-#### Computer Science with distinction, BSc
+#### Computer Science with Distinction and Co-op, BSc
 
 May 2019 - December 2023
 
@@ -122,7 +127,7 @@ UVic
 ### (Human) Languages
 - English (Native)
 - French (CEFR B2 through BC Double Dogwood program)
-- Spanish (Duolingo 88/ ~CEFR B1)
+- Spanish (Duolingo 91/ ~CEFR B1)
 
 ### References can be provided upon request.
 

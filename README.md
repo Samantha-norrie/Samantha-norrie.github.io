@@ -1,6 +1,8 @@
 # Hello, my name is Samantha Norrie!
 
-I'm a software developer and research assistant currently completing my Master’s in Computer Science at the University of Victoria. My main areas of work so far have been a mix of test automation, full-stack development, applied research, technical writing, and computer science education. Outside of writing code, I enjoy weightlifting, reading, language learning, journaling, and playing video games :) 
+I'm a software developer who makes software for research and education. I'm currently working as a software developer at University Systems (UVic) on the Research Administration Information System (RAIS) team. In the past, I have built and contributed to teams making software for teaching quantum computing while also working jobs that gave me experience in other software industries.
+
+Outside of software development, I enjoy weightlifting, sports, reading, and learning languages!
 
 ## Table of Contents
 - [Professional Experience](#industry-experience)
@@ -17,14 +19,16 @@ January 2026 - Present
 
 Remote, British Columbia, Canada
 
-- Creates and maintains components of UVic's RAIS software
+- Develops and maintains components of UVic's RAIS software using **Groovy/Grails**.
+- Writes, and maintains **Oracle SQL** queries, database objects, and data migration scripts.
+- Creates and executes automated end-to-end tests using **Playwright** to improve software quality and reliability.
   
 #### Software Development Specialist, Quantum Algorithms Institute
 January 2025 - October 2025
 
 Remote, British Columbia, Canada
 
-- Created technical content and programming exercises using **Python**, **Qiskit**, **Pennylane**, and **Pytest**
+- Created technical content and programming exercises using **Python**, **Qiskit**, **PennyLane**, and **Pytest**
 - Co-led development of quantum computing curricula
 - Worked in an Agile environment using **Jira**, **Git**, and **GitHub**
 
@@ -75,7 +79,7 @@ May 2021 - December 2021
 
 Victoria (hybrid), British Columbia, Canada
 
-- Developed application features for the Giftbit web application using **Java/Groovy** and **React**
+- Developed application features for the Giftbit web application using **Groovy/Grails** and **React**
 - Designed frontend components using **Figma**
 - Deployed **AWS EC2** instances
 - Audited automated test suites
@@ -126,8 +130,9 @@ UVic
 
 ### (Human) Languages
 - English (Native)
-- French (CEFR B2 through BC Double Dogwood program)
-- Spanish (Duolingo 91/ ~CEFR B1)
+- Spanish (Intermediate, CEFR low B2), currently enrolled in the Spanish, Practical and Business certificate program at UBC
+- French (Intermediate, CEFR B2 through BC Double Dogwood program)
+- Arabic (Absolute beginner, learning the basics in CEFR A1)
 
 ### References can be provided upon request.
 
